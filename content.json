@@ -1,1 +1,136 @@
+{
+  "profile": {
+    "fullName": "À RENSEIGNER",
+    "role": "Chargée de communication d’entreprise",
+    "birthdate": "",
+    "avatar": "https://raw.githubusercontent.com/brouantoine/portfolio-content/main/images/avatar.png",
+    "cover": "https://raw.githubusercontent.com/brouantoine/portfolio-content/main/images/cover.jpg"
+  },
+  "contact": {
+    "phone": "0708144967",
+    "email": "Corineraphaellak@gmail.com",
+    "formEmail": "Corineraphaellak@gmail.com"
+  },
+  "copy": {
+    "heroBubbleTitle": ["Communication d’entreprise", "Community management"],
+    "heroBubbleSubtitle": "Communication stratégique, institutionnelle et digitale. Création de contenus et image de marque."
+  },
+  "experiences": [
+    {
+      "title": "Employée — Cyber (Brouservice)",
+      "date": "2023",
+      "description": "Accueil et assistance clients, services bureautiques, impression/scans et accompagnement sur les démarches en ligne."
+    },
+    {
+      "title": "Promotrice — Dinor (Magasins Carrefour)",
+      "date": "Date à préciser",
+      "description": "Promotion en point de vente, animation commerciale, conseil client et mise en avant des produits."
+    },
+    {
+      "title": "Promotrice — Betclic (Mother Africa)",
+      "date": "Date à préciser",
+      "description": "Animation terrain, présentation de l’offre, orientation des clients et soutien à la visibilité de la marque."
+    },
+    {
+      "title": "Community Manager — Web Radio Grâce Espoir",
+      "date": "Date à préciser",
+      "description": "Gestion des réseaux sociaux, création de contenus, planification des publications et interaction avec la communauté."
+    },
+    {
+      "title": "Community Manager — Elphelys (lancement de marque)",
+      "date": "Date à préciser",
+      "description": "Accompagnement du lancement : contenus, image de marque, calendrier éditorial et animation de communauté."
+    },
+    {
+      "title": "Community Manager — Cabinet FPA",
+      "date": "Date à préciser",
+      "description": "Communication digitale, gestion des publications et des messages, soutien à la notoriété de la structure."
+    }
+  ],
+  "services": [
+    {
+      "emoji": "📣",
+      "title": "Communication d’entreprise",
+      "short": "Structurer la communication interne et externe.",
+      "points": ["Plan de communication", "Messages & supports", "Communication institutionnelle"]
+    },
+    {
+      "emoji": "📱",
+      "title": "Community management",
+      "short": "Animer et développer une communauté.",
+      "points": ["Calendrier éditorial", "Modération & réponses", "Engagement & croissance"]
+    },
+    {
+      "emoji": "🎬",
+      "title": "Création de contenus",
+      "short": "Visuels et vidéos adaptés aux réseaux.",
+      "points": ["Visuels (Canva)", "Montage vidéo (CapCut)", "Rédaction & storytelling"]
+    },
+    {
+      "emoji": "📊",
+      "title": "Reporting & optimisation",
+      "short": "Suivre la performance et améliorer.",
+      "points": ["Analyse des statistiques", "Optimisation des contenus", "Recommandations d’actions"]
+    },
+    {
+      "emoji": "🤝",
+      "title": "Communication interne",
+      "short": "Mieux communiquer avec les équipes.",
+      "points": ["Messages internes", "Culture d’entreprise", "Approche orientée RH"]
+    }
+  ],
+  "socials": {
+    "facebook": "",
+    "instagram": "",
+    "tiktok": "",
+    "whatsapp": "",
+    "email": ""
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Lancement digital — Elphelys",
+      "description": "Mise en place des contenus et de l’animation pour soutenir le lancement de la marque.",
+      "technologies": ["Canva", "CapCut", "Instagram", "TikTok", "Facebook"],
+      "image": "https://images.unsplash.com/photo-1520975958225-403bba5b3f9b?q=80&w=1470&auto=format",
+      "link": "#",
+      "isExternal": false,
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "title": "Community management — Web Radio Grâce Espoir",
+      "description": "Création de contenus, planification, interaction et suivi des performances sur les réseaux sociaux.",
+      "technologies": ["Facebook", "Instagram", "Canva", "Planning"],
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?q=80&w=1470&auto=format",
+      "link": "#",
+      "isExternal": false,
+      "status": "completed"
+    },
+    {
+      "id": 3,
+      "title": "Participation — Miss intercommunal",
+      "description": "Communication et visibilité autour de l’événement, présence et gestion d’image.",
+      "technologies": ["Personal branding", "Communication", "Réseaux sociaux"],
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1470&auto=format",
+      "link": "#",
+      "isExternal": false,
+      "status": "in-progress"
+    },
+    {
+      "id": 4,
+      "title": "Projets personnels",
+      "description": "Création de contenus et structuration d’une présence en ligne (image de marque, régularité, messages).",
+      "technologies": ["Création de contenus", "Stratégie", "Réseaux sociaux"],
+      "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=1470&auto=format",
+      "link": "#",
+      "isExternal": false,
+      "status": "in-progress"
+    }
+  ],
+  "cv": {
+    "url": "https://raw.githubusercontent.com/brouantoine/portfolio-content/main/docs/cv.pdf",
+    "fileName": "CV-Communication.pdf"
+  }
+}
 
