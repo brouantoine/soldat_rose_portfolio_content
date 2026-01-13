@@ -1,7 +1,7 @@
 {
   "profile": {
-    "fullName": "Corine Rapha\u00eblla Koua",
-    "role": "Charg\u00e9e de communication d\u2019entreprise",
+    "fullName": "Corine Raphaëlla Koua",
+    "role": "Chargée de communication d’entreprise",
     "birthdate": "",
     "avatar": "https://raw.githubusercontent.com/brouantoine/soldat_rose_portfolio_content/main/images/Profile.jpeg",
     "cover": "https://raw.githubusercontent.com/brouantoine/soldat_rose_portfolio_content/main/images/Cover.jpeg"
@@ -17,89 +17,111 @@
   },
   "experiences": [
     {
-      "title": "Community Manager \u2014 Elphelys",
-      "date": "D\u00e9c. 2025",
-      "description": "Lancement du projet, cr\u00e9ation de contenus et animation des r\u00e9seaux sociaux."
+      "title": "Community Manager — Elphelys",
+      "date": "Déc. 2025",
+      "description": "Lancement du projet, création de contenus et animation des réseaux sociaux."
     },
     {
-      "title": "Social Media Manager \u2014 Cabinet FPA",
-      "date": "Oct. \u2013 D\u00e9c. 2024",
-      "description": "Gestion des r\u00e9seaux, cr\u00e9ation de contenus et suivi des performances."
+      "title": "Social Media Manager — Cabinet FPA",
+      "date": "Oct. – Déc. 2024",
+      "description": "Gestion des réseaux, création de contenus et suivi des performances."
     },
     {
-      "title": "Promotrice \u2014 Betclic (Mother Africa Festival)",
-      "date": "D\u00e9c. 2024",
+      "title": "Promotrice — Betclic (Mother Africa Festival)",
+      "date": "Déc. 2024",
       "description": "Promotion de la marque et interaction avec le public."
     },
     {
-      "title": "3\u1d49 Dauphine \u2014 Miss Projet Intercommunal",
-      "date": "D\u00e9c. 2024",
-      "description": "Participation au concours et repr\u00e9sentation lors des activit\u00e9s officielles."
+      "title": "3ᵉ Dauphine — Miss Projet Intercommunal",
+      "date": "Déc. 2024",
+      "description": "Participation au concours et représentation lors des activités officielles."
     },
     {
-      "title": "Entrepreneure & Cr\u00e9atrice de contenus",
-      "date": "Juil. 2024 \u2013 Aujourd\u2019hui",
-      "description": "Gestion d\u2019un projet personnel et cr\u00e9ation de contenus digitaux."
+      "title": "Entrepreneure & Créatrice de contenus",
+      "date": "Juil. 2024 – Aujourd’hui",
+      "description": "Gestion d’un projet personnel et création de contenus digitaux."
     },
     {
-      "title": "Stage Community Manager \u2014 Radio Gr\u00e2ce Espoir",
-      "date": "Jan. \u2013 Juil. 2024",
-      "description": "Cr\u00e9ation de contenus, animation des r\u00e9seaux sociaux et appui \u00e0 la communication."
+      "title": "Stage Community Manager — Radio Grâce Espoir",
+      "date": "Jan. – Juil. 2024",
+      "description": "Création de contenus, animation des réseaux sociaux et appui à la communication."
     },
     {
-      "title": "Stage RH \u2014 Minist\u00e8re de l\u2019\u00c9conomie, Plan et D\u00e9veloppement",
+      "title": "Stage RH — Ministère de l’Économie, Plan et Développement",
       "date": "2023",
-      "description": "Appui aux activit\u00e9s RH et gestion administrative (stage)."
+      "description": "Appui aux activités RH et gestion administrative (stage)."
     },
     {
-      "title": "Commerciale / Promotrice \u2014 Dinor (Carrefour Coco Mall)",
-      "date": "D\u00e9c. 2023",
+      "title": "Commerciale / Promotrice — Dinor (Carrefour Coco Mall)",
+      "date": "Déc. 2023",
       "description": "Promotion en point de vente, conseil client et mise en avant des produits."
     },
     {
-      "title": "Employ\u00e9e \u2014 Cyber Caf\u00e9",
-      "date": "Ao\u00fbt \u2013 Nov. 2023",
-      "description": "Accueil clients, impression/scans, services bureautiques et assistance num\u00e9rique."
+      "title": "Employée — Cyber Café",
+      "date": "Août – Nov. 2023",
+      "description": "Accueil clients, impression/scans, services bureautiques et assistance numérique."
     }
   ],
+
+  "generalSkills": [
+    "Leadership naturel",
+    "Aisance orale",
+    "Créativité",
+    "Capacité à gérer des responsabilités"
+  ],
+
   "services": [
     {
-      "emoji": "\ud83d\udce3",
-      "title": "Communication d\u2019entreprise",
+      "emoji": "📣",
+      "title": "Communication d’entreprise",
       "short": "Structurer la communication interne et externe.",
       "points": ["Plan de communication", "Messages & supports", "Communication institutionnelle"]
     },
+
     {
-      "emoji": "\ud83d\udcf1",
+      "emoji": "💼",
+      "title": "Social media manager",
+      "short": "Piloter la stratégie social media et la ligne éditoriale.",
+      "points": [
+        "Élaboration de la stratégie des réseaux sociaux",
+        "Rédaction de la ligne éditoriale",
+        "Supervision des actions menées"
+      ]
+    },
+
+    {
+      "emoji": "📱",
       "title": "Community management",
-      "short": "Animer et d\u00e9velopper une communaut\u00e9.",
-      "points": ["Calendrier \u00e9ditorial", "Mod\u00e9ration & r\u00e9ponses", "Engagement & croissance"]
+      "short": "Animer et développer une communauté.",
+      "points": ["Calendrier éditorial", "Modération & réponses", "Engagement & croissance"]
     },
     {
-      "emoji": "\ud83c\udfac",
-      "title": "Cr\u00e9ation de contenus",
-      "short": "Visuels et vid\u00e9os adapt\u00e9s aux r\u00e9seaux.",
-      "points": ["Visuels (Canva)", "Montage vid\u00e9o (CapCut)", "R\u00e9daction & storytelling"]
+      "emoji": "🎬",
+      "title": "Création de contenus",
+      "short": "Visuels et vidéos adaptés aux réseaux.",
+      "points": ["Visuels (Canva)", "Montage vidéo (CapCut)", "Rédaction & storytelling"]
     },
     {
-      "emoji": "\ud83d\udcca",
+      "emoji": "📊",
       "title": "Reporting & optimisation",
-      "short": "Suivre la performance et am\u00e9liorer.",
-      "points": ["Analyse des statistiques", "Optimisation des contenus", "Recommandations d\u2019actions"]
+      "short": "Suivre la performance et améliorer.",
+      "points": ["Analyse des statistiques", "Optimisation des contenus", "Recommandations d’actions"]
     },
     {
-      "emoji": "\ud83e\udd1d",
+      "emoji": "🤝",
       "title": "Communication interne",
-      "short": "Mieux communiquer avec les \u00e9quipes.",
-      "points": ["Messages internes", "Culture d\u2019entreprise", "Approche orient\u00e9e RH"]
+      "short": "Mieux communiquer avec les équipes.",
+      "points": ["Messages internes", "Culture d’entreprise", "Approche orientée RH"]
     }
   ],
+
   "interests": [
-    { "emoji": "\ud83d\udcda", "label": "Lecture" },
-    { "emoji": "\u2708\ufe0f", "label": "Voyage" },
-    { "emoji": "\ud83d\udecd\ufe0f\ufe0f", "label": "Shopping" },
-    { "emoji": "\ud83d\udc86\u200d\u2640\ufe0f", "label": "Spa" }
+    { "emoji": "📚", "label": "Lecture" },
+    { "emoji": "✈️", "label": "Voyage" },
+    { "emoji": "🛍️", "label": "Shopping" },
+    { "emoji": "💆‍♀️", "label": "Spa" }
   ],
+
   "socials": {
     "facebook": "https://www.facebook.com/share/17RTDmKhDW/",
     "instagram": "https://www.instagram.com/soldat_rose?igsh=eWFxaGh2am9wdG9o",
@@ -108,20 +130,20 @@
     "email": "mailto:Corineraphaellak@gmail.com"
   },
   "socialStats": {
-    "tiktok": "34k abonn\u00e9s",
-    "facebook": "8k abonn\u00e9s",
-    "instagram": "400 abonn\u00e9s"
+    "tiktok": "34k abonnés",
+    "facebook": "8k abonnés",
+    "instagram": "400 abonnés"
   },
   "socialNames": {
-    "facebook": "Corine Rapha\u00eblla Koua",
+    "facebook": "Corine Raphaëlla Koua",
     "tiktok": "Soldat rose",
     "instagram": "Soldat rose"
   },
   "projects": [
     {
       "id": 1,
-      "title": "Lancement digital \u2014 Elphelys",
-      "description": "Cr\u00e9ation de contenus et animation des r\u00e9seaux sociaux pour le lancement du projet (D\u00e9c. 2025).",
+      "title": "Lancement digital — Elphelys",
+      "description": "Création de contenus et animation des réseaux sociaux pour le lancement du projet (Déc. 2025).",
       "technologies": ["Canva", "CapCut", "Instagram", "Facebook"],
       "image": "https://images.unsplash.com/photo-1520975958225-403bba5b3f9b?q=80&w=1470&auto=format",
       "link": "#",
@@ -130,9 +152,9 @@
     },
     {
       "id": 2,
-      "title": "Social media \u2014 Cabinet FPA",
-      "description": "Gestion des r\u00e9seaux, cr\u00e9ation de contenus et suivi des performances (Oct. \u2013 D\u00e9c. 2024).",
-      "technologies": ["Cr\u00e9ation de contenus", "Reporting", "R\u00e9seaux sociaux"],
+      "title": "Social media — Cabinet FPA",
+      "description": "Gestion des réseaux, création de contenus et suivi des performances (Oct. – Déc. 2024).",
+      "technologies": ["Création de contenus", "Reporting", "Réseaux sociaux"],
       "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?q=80&w=1470&auto=format",
       "link": "#",
       "isExternal": false,
@@ -140,9 +162,9 @@
     },
     {
       "id": 3,
-      "title": "Participation \u2014 Miss Projet Intercommunal (3\u1d49 Dauphine)",
-      "description": "Communication et visibilit\u00e9 autour de l\u2019\u00e9v\u00e9nement, pr\u00e9sence et gestion d\u2019image (D\u00e9c. 2024).",
-      "technologies": ["Personal branding", "Communication", "R\u00e9seaux sociaux"],
+      "title": "Participation — Miss Projet Intercommunal (3ᵉ Dauphine)",
+      "description": "Communication et visibilité autour de l’événement, présence et gestion d’image (Déc. 2024).",
+      "technologies": ["Personal branding", "Communication", "Réseaux sociaux"],
       "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1470&auto=format",
       "link": "#",
       "isExternal": false,
@@ -150,9 +172,9 @@
     },
     {
       "id": 4,
-      "title": "Projet personnel \u2014 Cr\u00e9ation de contenus",
-      "description": "Gestion d\u2019un projet personnel et cr\u00e9ation de contenus digitaux (Juil. 2024 \u2013 aujourd\u2019hui).",
-      "technologies": ["Cr\u00e9ation de contenus", "Strat\u00e9gie", "R\u00e9seaux sociaux"],
+      "title": "Projet personnel — Création de contenus",
+      "description": "Gestion d’un projet personnel et création de contenus digitaux (Juil. 2024 – aujourd’hui).",
+      "technologies": ["Création de contenus", "Stratégie", "Réseaux sociaux"],
       "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=1470&auto=format",
       "link": "#",
       "isExternal": false,
